@@ -1,0 +1,32 @@
+﻿{
+    "name": "Windfall Token",
+    "website": "https://windfalltoken.io/",
+    "description": "Windfall aspires to become one of the leading virtual real estate medium to provide exposure to the burgeoning virtual real estate industry through virtual real estate portal.",
+    "explorer": "https://bscscan.com/",
+    "research": "https://bscscan.com/token/0x876866ef03d1bd9cc7afdc2df9bf21b21a57af04",
+    "symbol": "WFT",
+    "type": "TOKEN",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/windfalltoken/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/windfalltoken"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/windfalltoken"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://whitepaper.windfalltoken.io/"
+        }
+    ]
+}
